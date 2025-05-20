@@ -32,8 +32,16 @@ This program requires one external library:
    ```
 
 4. Build the program:
+   For Mac/Linux:
+
    ```bash
    go build -o website-cloner
+   ```
+
+   For Windows:
+
+   ```bash
+   go build -o website-cloner.exe
    ```
 
 ### Usage
